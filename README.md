@@ -1,3 +1,3 @@
-# courseprojects
+IT-140
 
-This is a repo for me to track my learning with projects that I have worked on in both my university courses and self teaching.
+This was a project in my intro to python course, the objective was to solidify topics in the course, such as loops, lists and dictionary.
